@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/projetreactEcommerce/static/css/main.8b8ee9c8.chunk.css",
+    "main.js": "/projetreactEcommerce/static/js/main.de09024b.chunk.js",
+    "main.js.map": "/projetreactEcommerce/static/js/main.de09024b.chunk.js.map",
+    "runtime-main.js": "/projetreactEcommerce/static/js/runtime-main.a7f305b6.js",
+    "runtime-main.js.map": "/projetreactEcommerce/static/js/runtime-main.a7f305b6.js.map",
+    "static/js/2.8302b24d.chunk.js": "/projetreactEcommerce/static/js/2.8302b24d.chunk.js",
+    "static/js/2.8302b24d.chunk.js.map": "/projetreactEcommerce/static/js/2.8302b24d.chunk.js.map",
+    "index.html": "/projetreactEcommerce/index.html",
+    "precache-manifest.3377216d44eaf68aa250b8b5bacb2bcb.js": "/projetreactEcommerce/precache-manifest.3377216d44eaf68aa250b8b5bacb2bcb.js",
+    "service-worker.js": "/projetreactEcommerce/service-worker.js",
+    "static/css/main.8b8ee9c8.chunk.css.map": "/projetreactEcommerce/static/css/main.8b8ee9c8.chunk.css.map",
+    "static/js/2.8302b24d.chunk.js.LICENSE.txt": "/projetreactEcommerce/static/js/2.8302b24d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a7f305b6.js",
+    "static/js/2.8302b24d.chunk.js",
+    "static/css/main.8b8ee9c8.chunk.css",
+    "static/js/main.de09024b.chunk.js"
+  ]
+}
